@@ -42,9 +42,15 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 
 🌍 Live Demo
+https://pdfusion-bykhushii.streamlit.app/
+
 📸 Screenshots
 🔗 Merge PDFs
+<img width="1037" height="646" alt="image" src="https://github.com/user-attachments/assets/34553a8c-6a57-442f-99a5-45f1f424e0a1" />
+
 ✂️ Slice PDF
+<img width="982" height="542" alt="image" src="https://github.com/user-attachments/assets/9c9776d8-6700-47e3-9e8b-0bdbe964f59a" />
+
 
 📂 Project Structure
 
